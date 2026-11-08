@@ -6,7 +6,9 @@ UML Diagram : https://github.com/mohammadobayetkhan/Library-Management-System/tr
 
 ## Develop a simple interface using at least 5 classes that are in the class diagrams. Highly Recommend to use the Latex Template.
 
-INterface : https://github.com/mohammadobayetkhan/Library-Management-System/tree/main/Interfaces
+Interface : https://github.com/mohammadobayetkhan/Library-Management-System/tree/main/Interfaces
+
+Project Proposal : https://github.com/mohammadobayetkhan/Library-Management-System/blob/main/Library%20Management%20System_Project%20Proposal.pdf
 
 
 
